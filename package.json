@@ -18,5 +18,8 @@
   "homepage": "https://github.com/markusohlen/test2#readme",
   "dependencies": {
     "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.55.0"
   }
 }
